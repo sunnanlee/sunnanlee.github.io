@@ -9,9 +9,7 @@ balabalabala
 ## 获得荣誉
 balabalabala
 
-<img src="images/校徽.png" style="zoom:5%;" /><img src="images/商学院.jpg" style="zoom:27%;" />
+<img src="images/商学院.jpg" style="zoom:50%;" />
 
-
-
-Note: The Logo of Nanjing University and Nanjing University Business School
+Note: The Logo of Nanjing University Business School
 
