@@ -11,5 +11,5 @@
 
   * [课程](iLearning/课程.md)
 
-[iBook](iBookg/PythonNote.md)
+[iBook](iBook/书单.md)
 
