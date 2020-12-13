@@ -2,20 +2,20 @@
 
 [About](index.md)
 
-[English]()
+[iLife]()
 
-  * [A Thought on English](english/english-formula.md)
-  * [Phonetic Phonics](english/Phonetic-Phonics.md)
-  - - - -
-  * # Advanced
-  * [Stress and Syllables](english/stress.md)
+  * [生活随记](iLife/生活随记.md)
+  * [生活事务](iLife/Phonetic-Phonics.md)
+- - - -
+  * #More
+  * [Life DDL](iLife/stress.md)
 
-[Math]()
+[iLearning]()
 
-  * [Levy Processes](math/levy_processes.md)
+  * [Levy Processes](iLearning/levy_processes.md)
 
-[Coding](coding/PythonNote.md)
+[iBook](iBookg/PythonNote.md)
 
 
-<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+[iBeauty]()
